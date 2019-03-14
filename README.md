@@ -1,2 +1,2 @@
 # Hand
-class
+nothing to write
